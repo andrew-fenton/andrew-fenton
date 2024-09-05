@@ -11,7 +11,7 @@ I’m a software engineer who’s passionate about combining **code**, **creativ
 ### 💡 A little about me:
 - I’ve been trading equities and cryptocurrency for over 3 years, which sparked my fascination with **tech** and **finance**.
 - I’m always on the lookout for projects that have a real impact on people—whether that’s streamlining processes, solving frustrating problems, or building something exciting from scratch.
-- Collaboration is key—I thrive on working with others, sharing knowledge, and learning something new every day.
+- Collaboration is key—I thrive on working, teaching, and learning from others.
 
 ### 🔗 Let’s connect:
 I’m always up for discussing ideas, collaborating on projects, or sharing tips and tricks. Feel free to drop me a message!
