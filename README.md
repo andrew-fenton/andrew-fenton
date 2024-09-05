@@ -1,4 +1,4 @@
-# Hey! I’m Andrew
+# Hey! I’m Andrew 👋
 
 I’m a software engineer who’s passionate about combining **code**, **creativity**, and **problem-solving** to build things that make life easier and more fun. Whether it’s web apps, trading bots, or Chrome extensions, I love diving into new tech and constantly pushing myself to learn new things.
 
