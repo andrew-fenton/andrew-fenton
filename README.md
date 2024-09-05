@@ -3,7 +3,7 @@
 I’m a software engineer who’s passionate about combining **code**, **creativity**, and **problem-solving** to build things that make life easier and more fun. Whether it’s web apps, trading bots, or Chrome extensions, I love diving into new tech and constantly pushing myself to learn new things.
 
 ### 🛠 What I’m working on:
-- 🚀 Building [UBCCourses.app](https://ubccourses.app), a **course review platform** designed to help students easily discover detailed information about their courses.
+- 🚀 Building [UBCCourses.app](https://ubccourses.app), a **course review platform** designed to help students discover detailed information about their courses.
 - 🎙️ Experimenting with **LLMs** to develop a [chrome extension](https://github.com/andrew-fenton/careless-whisperer) that converts speech into text that sounds uniquely like **you**.
 - 🎮 Developing an arbitrage trading bot for Counter-Strike skins, which buys and sells across multiple marketplaces to capitalize on price differences.
 - 🔮 and some other projects currently in the pipeline...
