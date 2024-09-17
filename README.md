@@ -13,7 +13,6 @@ I’m a software engineer who’s passionate about combining **code**, **creativ
 - During COVID, I may have sunk _a few_ hours into CSGO, climbing my way up to Global Elite.
 - I’ve dug into equities and cryptocurrency for over 3 years now, sparking my fascination with **tech** and **finance**.
 - I’m always on the lookout for projects that have a **real impact on people**—whether that’s streamlining processes, solving frustrating problems, or building something exciting from scratch.
-- Collaboration is key—I thrive on working, teaching, and learning from others.
 
 ## 🔗 Let’s connect:
 I’m always up for discussing ideas, collaborating on projects, or sharing tips and tricks. Feel free to drop me a message!
