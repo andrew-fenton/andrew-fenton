@@ -4,7 +4,7 @@ I’m a software engineer who’s passionate about combining **code**, **creativ
 
 ## 🛠 What I’m working on:
 - 🌐 Helping businesses and developers adapt their products to different languages with [Localization-as-a-service](https://github.com/ubclaunchpad/localization).
-- 🚀 Building [UBCCourses.app](https://ubccourses.app), a **course review platform** designed to help students discover detailed information about their courses.
+- 🚀 Building [UBCCourses.app](https://ubccourses.app), a **course review platform** made to help students discover detailed information about their courses.
 - 🎮 Developing an **arbitrage trading bot** for Counter-Strike skins, which buys and sells across multiple marketplaces to capitalize on price inefficiencies.
 - 🔮 and some other projects currently in the pipeline...
 
