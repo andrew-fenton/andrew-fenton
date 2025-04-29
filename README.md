@@ -13,7 +13,6 @@
 - I’m always on the lookout for projects that have a **real impact on people**—whether that’s streamlining processes, solving frustrating problems, or building something meaningful from scratch.
 
 ## 🔗 Let’s connect:
-I’m always up for discussing ideas, collaborating on projects, or sharing tips and tricks. Feel free to drop me a message!
-
+Feel free to drop me a message!
 - [LinkedIn](https://linkedin.com/in/andrewfenton898)
 - [Twitter](https://twitter.com/1xandrew)
