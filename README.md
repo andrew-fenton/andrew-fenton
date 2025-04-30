@@ -1,5 +1,3 @@
-# Hey! I’m Andrew 👋
-
 ## 🛠 What I’m working on:
 - 🌐 Helping businesses and developers adapt their products to different languages with [Localization-as-a-service](https://github.com/ubclaunchpad/localization).
 - 🚀 Building [UBCCourses.app](https://ubccourses.app), a **course review platform** to help students discover detailed information about their courses.
