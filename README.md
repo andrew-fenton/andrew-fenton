@@ -1,10 +1,10 @@
 ## 🛠 What I’m working on:
-- 🌐 Helping businesses and developers adapt their products to different languages with [Localization-as-a-service](https://github.com/ubclaunchpad/localization).
-- 🚀 Building [UBCCourses.app](https://ubccourses.app), a **course review platform** to help students discover detailed information about their courses.
-- 🎮 Developing an **arbitrage trading bot** for Counter-Strike skins, which buys and sells across multiple marketplaces to capitalize on price inefficiencies.
-- 🔮 and some other projects currently in the pipeline...
+- 🌐 Helping dev teams launch multilingual products faster with [Localization-as-a-Service](https://github.com/ubclaunchpad/localization) — a centralized API for managing translations across microservices.
+- 🚀 Co-built [UBCCourses.app](https://ubccourses.app), a course review platform used by 500+ students to find in-depth insights on UBC courses.
+- 🎮 Developed an arbitrage trading bot for CS:GO skins, buying and selling across marketplaces to capitalize on price inefficiencies.
+- 🔧 and some other projects currently in the pipeline...
 
 ## 💡 A little about me:
-- Currently having a great time watching McLaren bottle the F1 driver's championship 😭.
-- During COVID, I may have sunk _a few_ hours into CSGO, climbing my way up to Global Elite.
-- I’ve dug into equities and cryptocurrency for over 3 years now, sparking my fascination for **tech** and **finance**.
+- Currently watching McLaren fumble the F1 driver's championship 😭  
+- During COVID, I sank *a few too many* hours into CSGO — reached Global Elite though. Totally worth it.
+- I’ve been deep into equities and crypto for 3+ years now, sparking a long-term fascination with **tech** and **finance**
