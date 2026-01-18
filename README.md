@@ -5,5 +5,5 @@
 - 🔧 and some other projects currently in the pipeline...
 
 ## 💡 A bit about me:
-- During COVID, I sank *a few too many* hours into CSGO — reached Global Elite though. Worth it.
+- During COVID, I sank a few too many hours into CS:GO, reached Global Elite though. Worth it.
 - I’ve been deep into equities and crypto for 4+ years now, sparking a long-term fascination with **tech** and **finance**.
