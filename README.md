@@ -6,4 +6,4 @@
 
 ## 💡 A bit about me:
 - During COVID, I sank a few too many hours into CS:GO, reached Global Elite though. Worth it.
-- I’ve been deep into equities and crypto for 4+ years now, sparking a long-term fascination with **tech** and **finance**.
+- I’ve looked into equities and crypto for 4+ years now, sparking a long-term fascination with **tech** and **finance**.
